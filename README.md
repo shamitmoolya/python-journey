@@ -4,7 +4,7 @@ This repository documents my journey of learning python programming from the bas
 
 
 Currently learning 🎓:
-    Loops..... Additions to be made.
+    Modules & Packages..... Additions to be made.
 
 ☀️ Keep on following me on ✨
     linkedin :- www.linkedin.com/in/smoolya
