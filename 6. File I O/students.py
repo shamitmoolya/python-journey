@@ -74,7 +74,7 @@
 
 # To sort them you can't just do:
 # for student in sorted(students): 
-# as the list doesn't just have names now. 
+# as the list doesn't just have names now. It has a dictionary in it.
 
 
 
